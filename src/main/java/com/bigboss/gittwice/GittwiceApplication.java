@@ -1,13 +1,13 @@
-package com.example.gitdemo;
+package com.bigboss.gittwice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GitdemoApplication {
+public class GittwiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(GitdemoApplication.class, args);
+        SpringApplication.run(GittwiceApplication.class, args);
     }
 
 }
